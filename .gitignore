@@ -1,0 +1,6 @@
+*.class
+bin
+bulid
+gen
+gradle
+lib
